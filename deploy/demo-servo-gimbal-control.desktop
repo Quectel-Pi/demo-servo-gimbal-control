@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Servo Control Demo (PCA9685)
+Comment=2-Axis Servo Gimbal Control
+Exec=python3 /home/welton/projects/demo-servo-gimbal-control/run_gimbal.py
+Path=/home/welton/projects/demo-servo-gimbal-control
+Terminal=false
+X-GNOME-Autostart-enabled=true
